@@ -73,7 +73,3 @@ dynamic:
             remove_block_1_big:		       0.000000	       0.000000	       0.000000	
             remove_block_3_big:		       0.000000	       0.000000	       0.000000	
  adding_rewriting_couple_times:		       0.070000	       0.010000	       0.000000	
-
-
-#komentarz do wyników
-Na podstawie wyników można potwierdzić tezę że operacje najszybciej sie wykonują dla bibliotek statycznych.

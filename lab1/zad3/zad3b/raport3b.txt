@@ -1,0 +1,229 @@
+static O0:
+                          Name		       Real [s]	       User [s]	     System [s]
+              table_create_100:		       0.000000	       0.000000	       0.000000	
+              wc_files_1_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_1_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_3_small:		       0.020000	       0.000000	       0.000000	
+               rewrite_3_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_6_small:		       0.030000	       0.000000	       0.000000	
+               rewrite_6_small:		       0.000000	       0.000000	       0.000000	
+             wc_files_1_midium:		       0.010000	       0.000000	       0.000000	
+              rewrite_1_midium:		       0.000000	       0.000000	       0.000000	
+             wc_files_3_midium:		       0.020000	       0.000000	       0.000000	
+              rewrite_3_midium:		       0.000000	       0.000000	       0.000000	
+                wc_files_1_big:		       0.040000	       0.000000	       0.000000	
+                 rewrite_1_big:		       0.000000	       0.000000	       0.000000	
+                wc_files_3_big:		       0.030000	       0.000000	       0.000000	
+                 rewrite_3_big:		       0.000000	       0.000000	       0.000000	
+          remove_block_1_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_3_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_6_small:		       0.000000	       0.000000	       0.000000	
+         remove_block_1_midium:		       0.000000	       0.000000	       0.000000	
+         remove_block_3_midium:		       0.000000	       0.000000	       0.000000	
+            remove_block_1_big:		       0.000000	       0.000000	       0.000000	
+            remove_block_3_big:		       0.000000	       0.000000	       0.000000	
+ adding_rewriting_couple_times:		       0.070000	       0.000000	       0.000000	
+shared O0:
+                          Name		       Real [s]	       User [s]	     System [s]
+              table_create_100:		       0.000000	       0.000000	       0.000000	
+              wc_files_1_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_1_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_3_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_3_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_6_small:		       0.020000	       0.000000	       0.000000	
+               rewrite_6_small:		       0.000000	       0.000000	       0.000000	
+             wc_files_1_midium:		       0.000000	       0.000000	       0.000000	
+              rewrite_1_midium:		       0.010000	       0.000000	       0.000000	
+             wc_files_3_midium:		       0.010000	       0.000000	       0.000000	
+              rewrite_3_midium:		       0.000000	       0.000000	       0.000000	
+                wc_files_1_big:		       0.020000	       0.000000	       0.000000	
+                 rewrite_1_big:		       0.000000	       0.000000	       0.000000	
+                wc_files_3_big:		       0.030000	       0.000000	       0.000000	
+                 rewrite_3_big:		       0.000000	       0.000000	       0.000000	
+          remove_block_1_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_3_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_6_small:		       0.000000	       0.000000	       0.000000	
+         remove_block_1_midium:		       0.000000	       0.000000	       0.000000	
+         remove_block_3_midium:		       0.000000	       0.000000	       0.000000	
+            remove_block_1_big:		       0.000000	       0.000000	       0.000000	
+            remove_block_3_big:		       0.000000	       0.000000	       0.000000	
+ adding_rewriting_couple_times:		       0.070000	       0.000000	       0.000000	
+dynamic O0:
+                          Name		       Real [s]	       User [s]	     System [s]
+              table_create_100:		       0.000000	       0.000000	       0.000000	
+              wc_files_1_small:		       0.000000	       0.000000	       0.000000	
+               rewrite_1_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_3_small:		       0.020000	       0.000000	       0.000000	
+               rewrite_3_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_6_small:		       0.020000	       0.000000	       0.000000	
+               rewrite_6_small:		       0.000000	       0.000000	       0.000000	
+             wc_files_1_midium:		       0.010000	       0.000000	       0.000000	
+              rewrite_1_midium:		       0.000000	       0.000000	       0.000000	
+             wc_files_3_midium:		       0.020000	       0.000000	       0.000000	
+              rewrite_3_midium:		       0.000000	       0.000000	       0.000000	
+                wc_files_1_big:		       0.030000	       0.000000	       0.000000	
+                 rewrite_1_big:		       0.000000	       0.000000	       0.000000	
+                wc_files_3_big:		       0.040000	       0.000000	       0.000000	
+                 rewrite_3_big:		       0.000000	       0.000000	       0.000000	
+          remove_block_1_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_3_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_6_small:		       0.000000	       0.000000	       0.000000	
+         remove_block_1_midium:		       0.000000	       0.000000	       0.000000	
+         remove_block_3_midium:		       0.000000	       0.000000	       0.000000	
+            remove_block_1_big:		       0.000000	       0.000000	       0.000000	
+            remove_block_3_big:		       0.000000	       0.000000	       0.000000	
+ adding_rewriting_couple_times:		       0.100000	       0.000000	       0.000000	
+static O2:
+                          Name		       Real [s]	       User [s]	     System [s]
+              table_create_100:		       0.000000	       0.000000	       0.000000	
+              wc_files_1_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_1_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_3_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_3_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_6_small:		       0.020000	       0.000000	       0.000000	
+               rewrite_6_small:		       0.000000	       0.000000	       0.000000	
+             wc_files_1_midium:		       0.010000	       0.000000	       0.000000	
+              rewrite_1_midium:		       0.000000	       0.000000	       0.000000	
+             wc_files_3_midium:		       0.020000	       0.000000	       0.000000	
+              rewrite_3_midium:		       0.000000	       0.000000	       0.000000	
+                wc_files_1_big:		       0.020000	       0.000000	       0.000000	
+                 rewrite_1_big:		       0.010000	       0.000000	       0.000000	
+                wc_files_3_big:		       0.030000	       0.000000	       0.000000	
+                 rewrite_3_big:		       0.000000	       0.000000	       0.000000	
+          remove_block_1_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_3_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_6_small:		       0.000000	       0.000000	       0.000000	
+         remove_block_1_midium:		       0.000000	       0.000000	       0.000000	
+         remove_block_3_midium:		       0.000000	       0.000000	       0.000000	
+            remove_block_1_big:		       0.000000	       0.000000	       0.000000	
+            remove_block_3_big:		       0.000000	       0.000000	       0.000000	
+ adding_rewriting_couple_times:		       0.090000	       0.000000	       0.000000	
+shared O2:
+                          Name		       Real [s]	       User [s]	     System [s]
+              table_create_100:		       0.000000	       0.000000	       0.000000	
+              wc_files_1_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_1_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_3_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_3_small:		       0.010000	       0.000000	       0.000000	
+              wc_files_6_small:		       0.020000	       0.000000	       0.000000	
+               rewrite_6_small:		       0.000000	       0.000000	       0.000000	
+             wc_files_1_midium:		       0.010000	       0.000000	       0.000000	
+              rewrite_1_midium:		       0.000000	       0.000000	       0.000000	
+             wc_files_3_midium:		       0.020000	       0.000000	       0.000000	
+              rewrite_3_midium:		       0.000000	       0.000000	       0.000000	
+                wc_files_1_big:		       0.030000	       0.000000	       0.000000	
+                 rewrite_1_big:		       0.000000	       0.000000	       0.000000	
+                wc_files_3_big:		       0.030000	       0.000000	       0.000000	
+                 rewrite_3_big:		       0.000000	       0.000000	       0.000000	
+          remove_block_1_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_3_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_6_small:		       0.000000	       0.000000	       0.000000	
+         remove_block_1_midium:		       0.000000	       0.000000	       0.000000	
+         remove_block_3_midium:		       0.000000	       0.000000	       0.000000	
+            remove_block_1_big:		       0.000000	       0.000000	       0.000000	
+            remove_block_3_big:		       0.000000	       0.000000	       0.000000	
+ adding_rewriting_couple_times:		       0.070000	       0.000000	       0.000000	
+dynamic O2:
+                          Name		       Real [s]	       User [s]	     System [s]
+              table_create_100:		       0.000000	       0.000000	       0.000000	
+              wc_files_1_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_1_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_3_small:		       0.020000	       0.000000	       0.000000	
+               rewrite_3_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_6_small:		       0.020000	       0.000000	       0.000000	
+               rewrite_6_small:		       0.000000	       0.000000	       0.000000	
+             wc_files_1_midium:		       0.010000	       0.000000	       0.000000	
+              rewrite_1_midium:		       0.000000	       0.000000	       0.000000	
+             wc_files_3_midium:		       0.020000	       0.000000	       0.000000	
+              rewrite_3_midium:		       0.000000	       0.000000	       0.000000	
+                wc_files_1_big:		       0.030000	       0.000000	       0.000000	
+                 rewrite_1_big:		       0.000000	       0.000000	       0.000000	
+                wc_files_3_big:		       0.020000	       0.000000	       0.000000	
+                 rewrite_3_big:		       0.010000	       0.000000	       0.000000	
+          remove_block_1_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_3_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_6_small:		       0.000000	       0.000000	       0.000000	
+         remove_block_1_midium:		       0.000000	       0.000000	       0.000000	
+         remove_block_3_midium:		       0.000000	       0.000000	       0.000000	
+            remove_block_1_big:		       0.000000	       0.000000	       0.000000	
+            remove_block_3_big:		       0.000000	       0.000000	       0.000000	
+ adding_rewriting_couple_times:		       0.060000	       0.000000	       0.000000	
+static Os:
+                          Name		       Real [s]	       User [s]	     System [s]
+              table_create_100:		       0.000000	       0.000000	       0.000000	
+              wc_files_1_small:		       0.000000	       0.000000	       0.000000	
+               rewrite_1_small:		       0.010000	       0.000000	       0.000000	
+              wc_files_3_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_3_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_6_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_6_small:		       0.000000	       0.000000	       0.000000	
+             wc_files_1_midium:		       0.000000	       0.000000	       0.000000	
+              rewrite_1_midium:		       0.000000	       0.000000	       0.000000	
+             wc_files_3_midium:		       0.010000	       0.000000	       0.000000	
+              rewrite_3_midium:		       0.010000	       0.000000	       0.000000	
+                wc_files_1_big:		       0.020000	       0.000000	       0.000000	
+                 rewrite_1_big:		       0.000000	       0.000000	       0.000000	
+                wc_files_3_big:		       0.030000	       0.000000	       0.000000	
+                 rewrite_3_big:		       0.000000	       0.000000	       0.000000	
+          remove_block_1_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_3_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_6_small:		       0.000000	       0.000000	       0.000000	
+         remove_block_1_midium:		       0.000000	       0.000000	       0.000000	
+         remove_block_3_midium:		       0.000000	       0.000000	       0.000000	
+            remove_block_1_big:		       0.000000	       0.000000	       0.000000	
+            remove_block_3_big:		       0.000000	       0.000000	       0.000000	
+ adding_rewriting_couple_times:		       0.080000	       0.000000	       0.000000	
+shared Os:
+                          Name		       Real [s]	       User [s]	     System [s]
+              table_create_100:		       0.000000	       0.000000	       0.000000	
+              wc_files_1_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_1_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_3_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_3_small:		       0.010000	       0.000000	       0.000000	
+              wc_files_6_small:		       0.020000	       0.000000	       0.000000	
+               rewrite_6_small:		       0.000000	       0.000000	       0.000000	
+             wc_files_1_midium:		       0.010000	       0.000000	       0.000000	
+              rewrite_1_midium:		       0.000000	       0.000000	       0.000000	
+             wc_files_3_midium:		       0.010000	       0.000000	       0.000000	
+              rewrite_3_midium:		       0.010000	       0.000000	       0.000000	
+                wc_files_1_big:		       0.030000	       0.000000	       0.000000	
+                 rewrite_1_big:		       0.000000	       0.000000	       0.000000	
+                wc_files_3_big:		       0.030000	       0.000000	       0.000000	
+                 rewrite_3_big:		       0.000000	       0.000000	       0.000000	
+          remove_block_1_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_3_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_6_small:		       0.000000	       0.000000	       0.000000	
+         remove_block_1_midium:		       0.000000	       0.000000	       0.000000	
+         remove_block_3_midium:		       0.000000	       0.000000	       0.000000	
+            remove_block_1_big:		       0.000000	       0.000000	       0.000000	
+            remove_block_3_big:		       0.000000	       0.000000	       0.000000	
+ adding_rewriting_couple_times:		       0.070000	       0.000000	       0.000000	
+dynamic Os:
+                          Name		       Real [s]	       User [s]	     System [s]
+              table_create_100:		       0.000000	       0.000000	       0.000000	
+              wc_files_1_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_1_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_3_small:		       0.010000	       0.000000	       0.000000	
+               rewrite_3_small:		       0.000000	       0.000000	       0.000000	
+              wc_files_6_small:		       0.030000	       0.000000	       0.000000	
+               rewrite_6_small:		       0.000000	       0.000000	       0.000000	
+             wc_files_1_midium:		       0.010000	       0.000000	       0.000000	
+              rewrite_1_midium:		       0.000000	       0.000000	       0.000000	
+             wc_files_3_midium:		       0.010000	       0.000000	       0.000000	
+              rewrite_3_midium:		       0.000000	       0.000000	       0.000000	
+                wc_files_1_big:		       0.030000	       0.000000	       0.000000	
+                 rewrite_1_big:		       0.010000	       0.000000	       0.000000	
+                wc_files_3_big:		       0.020000	       0.000000	       0.000000	
+                 rewrite_3_big:		       0.000000	       0.000000	       0.000000	
+          remove_block_1_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_3_small:		       0.000000	       0.000000	       0.000000	
+          remove_block_6_small:		       0.000000	       0.000000	       0.000000	
+         remove_block_1_midium:		       0.000000	       0.000000	       0.000000	
+         remove_block_3_midium:		       0.000000	       0.000000	       0.000000	
+            remove_block_1_big:		       0.000000	       0.000000	       0.000000	
+            remove_block_3_big:		       0.000000	       0.000000	       0.000000	
+ adding_rewriting_couple_times:		       0.070000	       0.000000	       0.000000	
+
+
+#komenatrz
+Operacje wykonują się najszybciej dla optymalizacji Os a najdłużej dla O2. 
